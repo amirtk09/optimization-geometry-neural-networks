@@ -6,7 +6,8 @@
 **Datasets:** Breast Cancer Wisconsin, MNIST, Boston Housing  
 **Author:** *AmirHossein Talebi Koohestani*  
 **University:** *Amir Kabir University of Technology (Tehran Polytechnic)*  
-**Supervisor:** *Dr. Mehdi Ghatee*
+**Supervisor:** Dr. Mehdi Ghatee   
+**TA:** Dr. Behnam Yousefimehr
 
 </div>
 
